@@ -4,7 +4,7 @@ from tkinter import messagebox
 class TicTacToe:
     def __init__(self, root):
         self.root = root
-        self.root.title("Tic Tac Toe")
+        self.root.title("Shabaz Ahmed | Tic Tac Toe")
         
         # Create a canvas to hold the grid of buttons
         self.canvas = tk.Canvas(root)
